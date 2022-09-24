@@ -16,7 +16,7 @@ ServiceNow Developer Intern
 
 ## Certifications and Merits
 
--ServiceNow System Administrator
--ServiceNow Certified Implementation Specialist - ITSM
--ServiceNow Certified Application Developer
+- ServiceNow System Administrator
+- ServiceNow Certified Implementation Specialist ITSM
+- ServiceNow Certified Application Developer
 
