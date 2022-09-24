@@ -1,10 +1,10 @@
-####Annamalai Balasubramanian
+#### Annamalai Balasubramanian
 
-#Professional Summary
+# Professional Summary
 
 Qualified IT professional with 5+ years of experience in Service-Now suite development and administration. Experienced in ITIL Management with functional and technical knowledge of medium to large-scale IT software management deliverables.
 
-#Experience
+# Experience
 
 ServiceNow Developer Intern
 
@@ -14,7 +14,7 @@ ServiceNow Developer Intern
 - Provided leadership and direction across the configuration management, integrations, incident management and support issues in Service Now
 - Interacted directly with client SMEs to gather and translate business requirements into technical and functional design documents
 
-##Certifications and Merits
+## Certifications and Merits
 
 -ServiceNow System Administrator
 -ServiceNow Certified Implementation Specialist - ITSM
