@@ -24,6 +24,6 @@ ServiceNow Developer Intern
 
 ### Project Description
 
-Our project's objective is to develop a food recipe app that gives users preparation instructions as well as other information, such as ingredients, nutritional value, serving sizes, and preparation time, in order to promote a healthy lifestyle. Any cuisine can be searched for by the user, who will receive the desired results. The preferred recipe can then be added to the wish list so they can refer to it later.
+Our project's objective is to develop a food recipe app that gives users preparation instructions as well as other information, such as ingredients, nutritional value, and preparation time, in order to promote a healthy lifestyle. Any cuisine can be searched for by the user, who will receive the desired results. The preferred recipe can then be added to the wish list so they can refer to it later.
 
 
