@@ -1,10 +1,10 @@
-#### Annamalai Balasubramanian
+# Annamalai Balasubramanian
 
-# Professional Summary
+## Professional Summary
 
 Qualified IT professional with 5+ years of experience in Service-Now suite development and administration. Experienced in ITIL Management with functional and technical knowledge of medium to large-scale IT software management deliverables.
 
-# Experience
+## Experience
 
 ServiceNow Developer Intern
 
@@ -14,19 +14,19 @@ ServiceNow Developer Intern
 - Provided leadership and direction across the configuration management, integrations, incident management and support issues in Service Now
 - Interacted directly with client SMEs to gather and translate business requirements into technical and functional design documents
 
-# Certifications and Merits
+## Certifications and Merits
 
 - Certified System Administrator - ServiceNow
 - Certified Implementation Specialist - ServiceNow
 - Certified Application Developer - ServiceNow
 
-# Term Project 
+## Term Project 
 
-### Project Description
+#### Project Description
 
 Our project's objective is to develop a food recipe app that gives users preparation instructions as well as other information, such as ingredients, nutritional value, and preparation time, in order to promote a healthy lifestyle. Any cuisine can be searched for by the user, who will receive the desired results. The preferred recipe can then be added to the wish list so they can refer to it later. I added the term project link below for reference.
 
-![GVSU-CIS641-Dazzling-Dynamite](https://github.com/SapnaMuthu/-GVSU-CIS641-Dazzling-Dynamites)
+<a href ="https://github.com/SapnaMuthu/-GVSU-CIS641-Dazzling-Dynamites"> GVSU-CIS641-Dazzling-Dynamites</a>
 
 
 
