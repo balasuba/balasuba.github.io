@@ -16,7 +16,7 @@ ServiceNow Developer Intern
 - Certified Implementation Specialist - ServiceNow
 - Certified Application Developer - ServiceNow
 
-## Term Project 
+## Term Project (Fall 2022- CIS641)
 
 #### Project Description
 
