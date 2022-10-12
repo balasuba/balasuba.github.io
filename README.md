@@ -1,4 +1,4 @@
-#Annamalai Balasubramanian
+Annamalai Balasubramanian
 
 ## Experience
 
