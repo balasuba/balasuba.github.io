@@ -1,7 +1,3 @@
-## Professional Summary
-
-Qualified IT professional with 5+ years of experience in Service-Now suite development and administration. Experienced in ITIL Management with functional and technical knowledge of medium to large-scale IT software management deliverables.
-
 ## Experience
 
 ServiceNow Developer Intern
