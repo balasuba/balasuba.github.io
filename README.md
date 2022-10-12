@@ -32,9 +32,8 @@ Our project's objective is to develop a food recipe app that gives users prepara
 ## Interest
 
 - Cricket is my favorite hobby. I used to play a lot during my undergrad and I am a right-handed batsman.
-!("https://images.indianexpress.com/2019/02/dhoni-7.jpg")
 - I enjoy cooking, and my favorite cuisine is Italian - Olive Garden is my favourite restaurant.
-!("https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Olive_Garden_Logo.svg/1200px-Olive_Garden_Logo.svg.png")
+
 
 
 
