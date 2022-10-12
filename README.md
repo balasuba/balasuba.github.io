@@ -16,9 +16,9 @@ ServiceNow Developer Intern
 
 # Certifications and Merits
 
-- <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FiJiRxbw_servicenow-admin-certification-logo-hd-png-download%2F&psig=AOvVaw3i-pnRjQDSdbtAo524qNJu&ust=1665625523076000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiPod_I2foCFQAAAAAdAAAAABAJ"></a>
-- <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepareservicenow.com%2Fp%2Fservicenow-itsm-cis.html&psig=AOvVaw3hCjCVC6RwRJW9bISDIGnO&ust=1665625710078000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDcqLjJ2foCFQAAAAAdAAAAABAE"></a>
-- <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepareservicenow.com%2Fp%2Fservicenow-cad.html&psig=AOvVaw1bQ_tFS4wbOyrb9MJT6290&ust=1665625788421000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCNy93J2foCFQAAAAAdAAAAABAE"></a>
+- !(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FiJiRxbw_servicenow-admin-certification-logo-hd-png-download%2F&psig=AOvVaw3i-pnRjQDSdbtAo524qNJu&ust=1665625523076000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiPod_I2foCFQAAAAAdAAAAABAJ)
+- !(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepareservicenow.com%2Fp%2Fservicenow-itsm-cis.html&psig=AOvVaw3hCjCVC6RwRJW9bISDIGnO&ust=1665625710078000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDcqLjJ2foCFQAAAAAdAAAAABAE)
+- !(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepareservicenow.com%2Fp%2Fservicenow-cad.html&psig=AOvVaw1bQ_tFS4wbOyrb9MJT6290&ust=1665625788421000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCNy93J2foCFQAAAAAdAAAAABAE)
 - ServiceNow System Administrator
 - ServiceNow Certified Implementation Specialist ITSM
 - ServiceNow Certified Application Developer
