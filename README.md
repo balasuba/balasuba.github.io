@@ -29,7 +29,7 @@ Our project's objective is to develop a food recipe app that gives users prepara
 
 <a href ="https://github.com/SapnaMuthu/-GVSU-CIS641-Dazzling-Dynamites"> GVSU-CIS641-Dazzling-Dynamites</a>
 
-##Interest
+## Interest
 
 - Cricket is my favorite hobby. I used to play a lot during my undergrad and I am a right-handed batsman.
 <a href ="https://images.indianexpress.com/2019/02/dhoni-7.jpg">
