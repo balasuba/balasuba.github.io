@@ -16,12 +16,9 @@ ServiceNow Developer Intern
 
 # Certifications and Merits
 
-![Snow](https://www.quantumversity.com/wp-content/uploads/2020/11/CSA.jpg)
-
-![cert](https://4.bp.blogspot.com/-YSmePJghvB4/XA_8bI9MKrI/AAAAAAAAylE/zEzeIeriH3wxlknPjzIcQLiBXp-NICeoQCLcBGAs/w1200-h630-p-k-no-nu/CIS%2B-ITSM.jpg)
-
-![crt](https://4.bp.blogspot.com/-MaOKkgwsn0g/XA_5UGMmO1I/AAAAAAAAyk4/8ggpiUXX3IoV0I226ekWjsM0mE4Gade_QCLcBGAs/s640/CSA.jpg)
-
+- Certified System Administrator - ServiceNow
+- Certified Implementation Specialist - ServiceNow
+- Certified Application Developer - ServiceNow
 
 # Term Project 
 
