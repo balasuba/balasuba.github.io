@@ -2,7 +2,7 @@ Annamalai Balasubramanian
 
 ## Experience
 
-ServiceNow Developer Intern
+####ServiceNow Developer Intern
 
 - Involved in communicating with clients, business, and IT, finding issues, gathering specifications, and documenting.
 - Worked on Integrating with external applications and automated processes using ServiceNow Web services(SOAP).
@@ -20,7 +20,7 @@ ServiceNow Developer Intern
 
 #### Project Description
 
-Our project's objective is to develop a food recipe app that gives users preparation instructions as well as other information, such as ingredients, nutritional value, and preparation time, in order to promote a healthy lifestyle. Any cuisine can be searched for by the user, who will receive the desired results. The preferred recipe can then be added to the wish list so they can refer to it later. I added the term project link below for reference.
+Our project's objective is to develop a food recipe app that gives users preparation instructions as well as other information, such as ingredients, nutritional value, and preparation time, in order to promote a healthy lifestyle. Any recipe can be searched for by the user, who will receive the desired results. The preferred recipe can then be added to the wish list so they can refer to it later. 
 
 ## Academic Records
 
