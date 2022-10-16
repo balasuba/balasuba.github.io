@@ -26,7 +26,7 @@ Our project's objective is to develop a food recipe app that gives users prepara
 - Masters in computer science – Grand Valley State University
 - Bachelor of Electronics and Communication Engineering - Anna University
 
-<a href ="https://github.com/SapnaMuthu/-GVSU-CIS641-Dazzling-Dynamites"> GVSU-CIS641-Dazzling-Dynamites</a>
+<a href ="https://sapnamuthu.github.io/GVSU-CIS641-Dazzling-Dynamites/"> GVSU-CIS641-Dazzling-Dynamites</a>
 
 ## Interest
 
