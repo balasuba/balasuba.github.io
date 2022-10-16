@@ -1,6 +1,3 @@
-<h1> Annamalai Balasubramanian
-</h1>
-
 <h2> Experience 
 </h2>
 
